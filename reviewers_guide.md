@@ -10,7 +10,7 @@ You've just been invited to review a manuscript 'Assembly and Characterization o
 2. Sequencing libraries. What kit was used? Be specific. Illumina is just one of the suppliers of these kits, and they sell several different varieties (stranded, unstranded, Ribo-depletion, etc). How much RNA went into the prep.
 
 3. Sequencing: What platform was used? Paired end or single end sequencing? How many raw reads were generated? **Are these data publicly available**
-
+    - update from @BioMath: If you are sequencing multiple individuals, make sure that you tell the reader how many reads generated for each individual (https://twitter.com/BioMath/status/530537239043125248)
 4. Were adapters trimmed? How did the authors trim them. What software/settings were used?
 
 5. Were low quality nucleotides trimmed? If so what threshold was used and why. What software/settings?
