@@ -1,4 +1,4 @@
-Transcriptome Assembly: A reviewers quide
+Transcriptome Assembly: A reviewers guide
 --
 
 ---
